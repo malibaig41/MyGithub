@@ -26,5 +26,9 @@
         android:layout_height="wrap_content"
         android:text="Button2" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button3" />
 
 </LinearLayout>
