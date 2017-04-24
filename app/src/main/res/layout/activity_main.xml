@@ -29,7 +29,14 @@
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="CheckBox 2" />
+        android:text="CheckBox 4" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CheckBox 5" />
+
+
     <RadioButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
